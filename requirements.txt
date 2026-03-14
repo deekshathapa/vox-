@@ -1,5 +1,6 @@
 flask
 flask-socketio
+eventlet
 requests
 sympy
 wikipedia
